@@ -1,4 +1,4 @@
-# pdf-to-xlsx
+# pdf-to-xlsx-LINUX
 
 ## Description
 Python script to convert tabular data in pdf files to csv(xlsx) format.
