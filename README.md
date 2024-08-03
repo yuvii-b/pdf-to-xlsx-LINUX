@@ -1,7 +1,7 @@
-# pdf-to-xls
+# pdf-to-xlsx
 
 ## Description
-Python script to convert tabular data in pdf files to csv(xls) format.
+Python script to convert tabular data in pdf files to csv(xlsx) format.
 
 ## Requirements
 - Python 3.x
